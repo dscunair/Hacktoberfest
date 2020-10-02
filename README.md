@@ -5,7 +5,7 @@ Support open source and pick a limited edition T-shirt or plant a tree.
 
 ## Contributors
 
-- [Name](https://github.com/l)
+- [Name](https://github.com/)
 
 ## How to contribute
 - Fork this repository
