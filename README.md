@@ -7,6 +7,7 @@ Support open source and pick a limited edition T-shirt or plant a tree.
 
 - [Shafiq](https://github.com/iqbalShafiq)
 - [Halid](https://github.com/hmk1337)
+- [Pahlevi](https://github.com/pahlevikun)
 
 ## How to contribute
 - Fork this repository
