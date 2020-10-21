@@ -12,5 +12,10 @@ Google's self-hosting[17] compiler toolchain targeting multiple operating system
 gccgo, a GCC frontend.[20][21]
 A third-party transpiler GopherJS[22] compiles Go to JavaScript for front-end web development.
 
+## Tutorial
+[Learning Golang in 24 Hours](https://medium.com/better-programming/learning-golang-in-24-hours-ec7bb5e24c78)
+[Getting started with GOlang](https://medium.com/wesionary-team/getting-started-with-golang-ad1e9c8121ab)
+
+
 ## Sources
 [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
