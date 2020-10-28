@@ -9,8 +9,11 @@ Components are the main building block for Angular applications. Each component 
 
 - An HTML template that declares what renders on the page
 - A Typescript class that defines behavior
+- A CSS selector that defines how the component is used in a template
+- Optionally, CSS styles applied to the template
 
 ### Learning Resourses
 - [Angular Docs](https://angular.io/tutorial) (FREE)
 - [Angular Google Dev](https://developers.google.com/learn/topics/angular) (FREE)
 - [Angular Youtube Channel](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A) (FREE)
+
