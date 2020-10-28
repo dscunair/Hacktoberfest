@@ -6,3 +6,4 @@ Angular is an application design framework and development platform for creating
 
 ### Learning Resourses
 - [Angular Docs](https://angular.io/tutorial) (FREE)
+- [Angular Google Dev](https://developers.google.com/learn/topics/angular) (FREE)
