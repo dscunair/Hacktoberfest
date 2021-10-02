@@ -1,4 +1,4 @@
-<img src="https://en.wikipedia.org/wiki/Google_Cloud_Platform#/media/File:Google_Cloud_logo.svg" width="200" alt="Kubernetes" title="Kubernetes">
+<img src="https://www.cloudsavvyit.com/p/uploads/2020/04/469724f6.png" width="200" alt="GCP" title="GCP">
 
 # Google Cloud Platform
 
