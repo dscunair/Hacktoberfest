@@ -18,6 +18,8 @@ Support open source and pick a limited edition T-shirt or plant a tree.
 
 - [Shafiq](https://github.com/iqbalShafiq)
 - [Halid](https://github.com/hmk1337)
+- [Faisal Akhtar](https://github.com/faisalAkhtar)
+- [Prasaja](https://github.com/Prasaja28)
 
 ## How to contribute
 - Fork this repository
