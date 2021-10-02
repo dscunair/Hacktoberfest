@@ -1,6 +1,6 @@
 ![Picture](https://github.com/dscunair/Hacktoberfest/blob/main/DSC%20Universitas%20Airlangga%20Logo%20x1.png)
 # Hacktoberfest!
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31  2021.
 Support open source and pick a limited edition T-shirt or plant a tree.
 
 
@@ -11,6 +11,7 @@ Support open source and pick a limited edition T-shirt or plant a tree.
 - <a href="Firebase/">Firebase</a>
 - <a href="Tensorflow/">Tensorflow</a>
 - <a href="Kubernetes/">Kubernetes</a>
+- <a href="GCP/">Google Cloud Platform (GCP)</a>
 
 
 ## Contributors
