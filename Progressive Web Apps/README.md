@@ -52,3 +52,11 @@ Firefox
 Opera
 Samsung Internet
 UC Browser
+
+## Tutorial
+[Google.Crome.Developers](https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+[The.Net.Ninja](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+
+## Sources
+[web.dev](https://web.dev/what-are-pwas/)
+[web.dev](https://web.dev/install-criteria/)

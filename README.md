@@ -12,7 +12,7 @@ Support open source and pick a limited edition T-shirt or plant a tree.
 - <a href="Tensorflow/">Tensorflow</a>
 - <a href="Kubernetes/">Kubernetes</a>
 - <a href="GCP/">Google Cloud Platform (GCP)</a>
-- <a href="PWA/">Progressive Wb Apps</a>
+- <a href="PWA/">Progressive Web Apps</a>
 
 
 ## Contributors
