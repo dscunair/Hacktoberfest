@@ -1,6 +1,6 @@
 # Google Analytics
 
-![Flutter](https://www.affde.com/uploads/article/2512/XjPbJHOxUiRKP8Wl.png)
+![Flutter](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
 
 ## Description
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
