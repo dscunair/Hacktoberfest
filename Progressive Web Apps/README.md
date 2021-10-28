@@ -21,3 +21,42 @@ The web is quite capable in its own right today. For example, you can build a hy
 Until recently, only platform-specific apps could really lay claim to these capabilities. While some capabilities are still out of the web's reach, new and upcoming APIs are looking to change that, expanding what the web can do with features like file system access, media controls, app badging, and full clipboard support. All of these capabilities are built with the web's secure, user-centric permission model, ensuring that going to a website is never a scary proposition for users.
 
 Between modern APIs, WebAssembly, and new and upcoming APIs, web applications are more capable than ever, and those capabilities are only growing.
+
+## What does it take to be installable?
+
+Progressive Web Apps (PWAs) are modern, high quality applications built using web technology. PWAs offer similar capabilities to iOS/Android/desktop apps, they are reliable even in unstable network conditions, and are installable making it easier for users to find and use them.
+
+Most users are familiar with installing applications, and the benefits of an installed experience. Installed applications appear on operating system launch surfaces, such as the Applications folder on Mac OS X, the Start menu on Windows, and the homescreen on Android and iOS. Installed applications also show up in the activity switcher, device search engines such as Spotlight and in content sharing sheets.
+
+Most browsers indicate to the user that your Progressive Web App (PWA) is installable when it meets certain criteria. Example indicators include an Install button in the address bar, or an Install menu item in the overflow menu.
+
+In addition, when the criteria is met, many browsers will fire a beforeinstallprompt event, allowing you to provide a custom in-app UX that that will trigger the install flow within your app.
+
+Install criteria #
+In Chrome, your Progressive Web App must meet the following criteria before it will fire the beforeinstallprompt event and show the in-browser install promotion:
+
+The web app is not already installed
+Meets a user engagement heuristic
+Be served over HTTPS
+Includes a <a href="https://web.dev/add-manifest/">web app manifest </a> that includes:
+short_name or name
+icons - must include a 192px and a 512px icon
+start_url
+display - must be one of fullscreen, standalone, or minimal-ui
+prefer_related_applications must not be present, or be false
+Registers a service worker with a fetch handler
+Other browsers have similar criteria for installation, though there may be minor differences. Check the respective sites for full details:
+
+Edge
+Firefox
+Opera
+Samsung Internet
+UC Browser
+
+## Tutorial
+[Google.Crome.Developers](https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+[The.Net.Ninja](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+
+## Sources
+[web.dev](https://web.dev/what-are-pwas/)
+[web.dev](https://web.dev/install-criteria/)
